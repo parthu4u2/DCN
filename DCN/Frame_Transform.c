@@ -1,7 +1,7 @@
  #include<stdio.h>
 #include<string.h>
 
-
+ 
 int main(){
 	char data[100],stuffedData[200];
 	int i,count=0,j=0;
